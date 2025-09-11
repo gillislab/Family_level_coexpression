@@ -1,0 +1,36 @@
+Species,Taxa ID,Common Name
+Oryza sativa,4530,rice
+Oryza sativa japonica,39947,rice_jp
+Malus domestica,3750,apple
+Sorghum bicolor,4558,sorghum
+Zea mays,4577,maize
+Vitis vinifera,29760,grape
+Brassica rapa,3711,mustard
+Glycine max,3847,soybean
+Medicago truncatula,3880,medicago
+Nicotiana tabacum,4097,tobacco
+Solanum tuberosum,4113,potato
+Solanum lycopersicum,4081,tomato
+Arabidopsis thaliana,3702,arabidopsis
+Arachis hypogaea,3818,peanut
+Triticum aestivum,4565,wheat
+Cucumis sativus,3659,cucumber
+Brassica napus,3708,rapeseed
+Brachypodium distachyon,15368,brome
+Homo sapiens,9606,human
+Canis familiaris,9615,dog
+Equus caballus,9796,horse
+Capra hircus,9925,goat
+Oryctolagus cuniculus,9986,rabbit
+Rattus norvegicus,10116,rat
+Mus musculus,10090,mouse
+Pan troglodytes,9598,chimp
+Macaca fascicularis,9541,crabm
+Macaca mulatta,9544,rhesusm
+Sus scrofa,9823,boar
+Bos taurus,9913,cow
+Ovis aries,9940,sheep
+Drosophila melanogaster,7227,fruitfly
+Saccharomyces cerevisiae,4932,yeast
+Gallus gallus,9031,chicken
+Populus trichocarpa,3694,poplar
