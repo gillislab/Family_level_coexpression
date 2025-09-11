@@ -12,3 +12,6 @@ Installation Guide:
 Run time: This should take <10 minutes to install and run, as tested on a home gaming PC. 
 
 Expected output: 4.42 concordant groups/discordant for family comparisons, and 2.98 concordant genes/discordant for genewise comparisons. 
+
+Reproduction Instructions: To repeat for all pairs of species, download and align species data from SRA, and use the files in the folder Cross_species_module_comparison/Improving_signal file. Any extra files you need will be  at https://gillisweb.cshl.edu/CoCoBLAST/ 
+This should just be N-M files! 
